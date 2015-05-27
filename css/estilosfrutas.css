@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+#paginainicio
+{background:#0CC}
+#titulo
+{background:#F39; color:#309}
+#pienombre
+{background:#F3F; color:#6F3}
+#introduccion
+{color:#FF6; size:3; align:justify; background:#3FC; width:98%; margin:1%}
+#texto
+{color:#636; size:3; align:justify; background:#3FC; width:98%; margin:1%}
+#texto2
+{color:#636; size:3; align:justify; background:#FCF; width:98%; margin:1%}
+#texto3
+{color:#636; size:3; align:justify; background:#3CC; width:98%; margin:1%}
+#texto4
+{color:#636; size:3; align:justify; background:#FC6; width:98%; margin:1%}
+#texto5
+{color:#636; size:3; align:justify; background:#93F; width:98%; margin:1%}
+#texto6
+{color:#000; size:3; align:justify; background:#FF9; width:98%; margin:1%}
+#texto7
+{color:#636; size:3; align:justify; background:#FC3; width:98%; margin:1%}
+
+#frutas
+{color:#039; size:3; background:#F66; width:98%; margin:1%}
+#bayas
+{color:#636; size:3; align:justify; background:#3FC; width:98%; margin:1%}
+#titulosdebayas
+{color:#F39; size:3; align:justify; background:#9F3; width:98%; margin:1%}
+#titulosdecitricos
+{color:#930; size:3; align:justify; background:#F90; width:98%; margin:1%}
+#titulosdecurbitaceas
+{color:#F60 size:3; align:justify; background:#C9F; width:98%; margin:1%}
+#titulosdeexoticas
+{color:#F60 size:3; align:justify; background:#F6C; width:98%; margin:1%}
+#titulosdedules
+{color:#F60 size:3; align:justify; background:#3FC; width:98%; margin:1%}
+#titulosdesecos
+{color:#F60 size:3; align:justify; background:#C33; width:98%; margin:1%}
+#citricos
+{color:#63F; size:3; align:justify; background:#C9C; width:98%; margin:1%}
+#cucurbitaceas
+{color:#333; size:3; align:justify; background:#0FF; width:98%; margin:1%}
+#exoticas
+{color:#636; size:3; align:justify; background:#C36; width:98%; margin:1%}
+#dulces
+{color:#636; size:3; align:justify; background:#F66; width:98%; margin:1%}
+#secos
+{color:#636; size:3; align:justify; background:#FF6; width:98%; margin:1%}
